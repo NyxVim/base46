@@ -1,0 +1,13 @@
+{
+   "cSpell.words": [
+      "nyxconfig",
+      "nyxrc",
+      "theming"
+   ],
+   "Lua.diagnostics.disable": [
+      "undefined-global",
+      "deprecated",
+      "inject-field",
+      "undefined-doc-name"
+   ]
+}
